@@ -1,5 +1,5 @@
 const BASE_URL =
-  "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_jalHIsbL2Iw18bGuMFcJifgoXiZ22gfjXRTIgSIQ";
+  "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies";
 
   const countryList = {
     AED: "AE",
